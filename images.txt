@@ -1,1 +1,2 @@
+jenkins/jenkins
 kafka:3.7.0
