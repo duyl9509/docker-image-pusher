@@ -1,8 +1,1 @@
-alpine
-ubuntu
-nginx
-mongo
-nats
-node
-elasticsearch
 openjdk
