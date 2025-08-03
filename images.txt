@@ -1,1 +1,8 @@
-bitnami/kafka:3.7.0
+alpine
+ubuntu
+nginx
+mongo
+nats
+node
+elasticsearch
+openjdk
