@@ -1,2 +1,1 @@
-rabbitmq:3.12.9
 rocketmq:5.1.0
